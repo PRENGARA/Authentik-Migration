@@ -11,3 +11,6 @@ Lab_Priyadharshini Rengaramanujam.pdf — Validation screenshots
 - DNS & TLS configured for authentik.iamlab.depaulseclabs.com
 - LDAPS sync from Active Directory
 - GlobalProtect and Snipe-IT integrated via Authentik SAML
+
+## Author
+**Priyadharshini Rengaramanujam** — Graduate Student (Cybersecurity), DePaul University
